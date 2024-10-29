@@ -1,2 +1,2 @@
 # BIT
-Break Into Tech
+Break Into Tech SQL Projects
